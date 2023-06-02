@@ -39,7 +39,7 @@ YNU 2023 Spring Course
 ```
 ### 实验结果
 
-| 方法    | 准确率 |
+| 分类方法 | 准确率 |
 | ------- | ------ |
 | SVM     | 84.38% |
 | KNN     | 88.12% |
@@ -49,13 +49,7 @@ YNU 2023 Spring Course
 | KNN+LDA | 98.12% |
 | CNN     | 95.62% |
 
-　　<center><strong>表 1  分类结果 </strong></center>
-  
-<img src="https://raw.githubusercontent.com/anglee2002/Picbed/main/untitled.png" alt="untitled" style="zoom:33%;" />
+![](https://raw.githubusercontent.com/anglee2002/Picbed/main/untitled.png)
 
-<center><strong>图 1 特征提取识别结果  （1）SVM-PCA （2）SVM-LDA （3）KNN-PCA （4）KNN-LDA </strong></center>
+![](https://raw.githubusercontent.com/anglee2002/Picbed/main/screenshot2023-06-01%2019.25.18.gif)
 
-<img src="https://raw.githubusercontent.com/anglee2002/Picbed/main/screenshot2023-06-01%2019.25.18.gif" style="zoom:50%;" />
-<center><strong>图 2 卷机神经网络训练轮次图  </strong></center>
-<img src="https://raw.githubusercontent.com/anglee2002/Picbed/main/screenshot2023-06-01%2019.25.18.gif" style="zoom:50%;" />
-<img src="https://raw.githubusercontent.com/anglee2002/Picbed/main/screenshot2023-06-01%2019.25.18.gif" style="zoom:50%;" />
