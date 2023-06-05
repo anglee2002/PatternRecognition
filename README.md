@@ -23,7 +23,7 @@ YNU 2023 Spring Course
 │   └── knn.m  %K最近临子模块
 │   └── pca.m  %主成分分析子模块
 │   └── lda.m  %线性判别分析子模块
-│   └── myCNN.m  %卷机神经网络子模块
+│   └── myCNN.m  %卷积神经网络子模块
 │   └── Grid_search_log  %该部分为网格搜索文件夹，用于存储网格搜索日志并生成训练图像
 │        └── svm_pca_log.mat  %记录使用PCA降维的SVM算法的参数和准确率日志
 │        └── svm_lda_log.mat  %记录使用LDA降维的SVM算法的参数和准确率日志
